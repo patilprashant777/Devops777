@@ -1,9 +1,10 @@
 hhhhhhhhhhh
 hhhhhhhhhhhhh
+simultaneous-edit
+>>>>>>> e54a69464742283d0dbbec7664e6c857f3f2ef6c
 This is a test file1
 #include<stdio.h>
 int main()
 {
-printf("Hello World\n");
 Printf("Edited by developer 2 via local repo")
 }
